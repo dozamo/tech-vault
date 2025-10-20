@@ -1,0 +1,11 @@
+sudo virt-install \
+ --name ubuntu2204 \
+ --ram 1024 \
+ --disk path=/var/lib/libvirt/images/ubuntu2204.img,size=7 \
+ --vcpus 2 \
+ --os-variant ubuntu22.04 \
+ --network network=default \
+ --graphics none \
+ --console pty,target_type=serial \
+ --location /var/lib/libvirt/isos/ubuntu-22.04.5-live-server-amd64.iso,kernel=casper/vmlinuz,initrd=casper/initrd \
+ --extra-args 'console=ttyS0,115200n8' 
