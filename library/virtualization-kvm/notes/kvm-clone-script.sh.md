@@ -1,7 +1,7 @@
 # Script ../src/kvm_clone_script.sh
 
 - El script `../src/kvm_clone_script.sh` fuerza la conexión a `qemu:///system`.
-- El script esta definido en [kvm_clone_script.sh](../src/kvm_clone_script.sh).
+- El script esta definido en [kvm-clone-script.sh](../src/kvm-clone-script.sh).
 
 ## Libvirt en mi host KVM anfitrión
 
