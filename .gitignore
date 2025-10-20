@@ -1,8 +1,7 @@
 /Journal/
-/_Inbox/
+/_inbox/
 /x/*
 !/x/Templater/
-/Library/IFCT79/
 *.drawio.bkp
 *.drawio.dtmp
 *.pdf
