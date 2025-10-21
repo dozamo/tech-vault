@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "📚",
+      "TiFileImport",
+      "TiPaperclip",
       "LiLibraryBig",
-      "LiInbox",
-      "LiNotebookPen",
-      "TiCategory",
-      "LiCalendar"
+      "LiInbox"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -70,5 +70,18 @@
     "iconName": "TiCategory",
     "iconColor": "#010aff"
   },
-  "Library/images": "LiImage"
+  "Library/images": "LiImage",
+  "attachments": {
+    "iconName": "TiPaperclip",
+    "iconColor": "#00ff00"
+  },
+  "external-resources": "TiFileImport",
+  "library": {
+    "iconName": "LiLibraryBig",
+    "iconColor": "#00ff00"
+  },
+  "+": {
+    "iconName": "LiInbox",
+    "iconColor": "#e98901"
+  }
 }

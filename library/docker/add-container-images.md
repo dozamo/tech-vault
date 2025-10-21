@@ -1,3 +1,10 @@
+---
+up: "[[docker]]"
+related:
+  - "[[add-container-images]]"
+  - "[[access-to-container-services]]"
+---
+
 ## Add container images
 
 ```bash
