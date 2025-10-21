@@ -1,7 +1,8 @@
-/Journal/
-/_inbox/
 /x/*
-!/x/Templater/
 *.drawio.bkp
 *.drawio.dtmp
 *.pdf
+*.zip
+*.rar
+*.tgz
+/external-resources/
