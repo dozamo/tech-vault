@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "library/docker/add-container-images.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "add-container-images"
+              "title": "README"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 535.5
+    "width": 256.5
   },
   "right": {
     "id": "d950d84b06762f0a",
@@ -248,8 +248,10 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "6668a06468464860",
+  "active": "e0cd9660f83d3f41",
   "lastOpenFiles": [
+    "README.md",
+    "library/docker/add-container-images.md",
     "library/docker/access-to-container-services.md",
     "Notes/000_Index.md",
     "Notes/Untitled.md",
@@ -276,13 +278,11 @@
     "Notes/IPv4 Subnetting - ejemplo 172.31.1.0_24.md",
     "Notes/IPv4 Subnetting CIDR.md",
     "Notes/IPv4 Subnetting CIDR - enfoque en Red vs Host.md",
-    "Notes/+ Initial +.md",
     "Notes/IFCT79/attachments/objetivo.ejercicio.drawio",
     "Notes/IFCT79/attachments/ejercicio_2.v2025-10-02.pkt",
     "Notes/IFCT79/attachments/ejercicio_2.docx",
     "Notes/IFCT79/attachments/2025-09-29_subnetting.pdf",
     "Notes/IFCT79/vlsm_200.200.100.0.pdf",
-    "Notes/IFCT79/vlsm_200.200.100.0.md",
     "Notes/IFCT79/subnetting.ejercicio.drawio",
     "Notes/IFCT79/objetivo.ejercicio.drawio",
     "Notes/IFCT79/images",
