@@ -1,5 +1,11 @@
 ---
-desc: "lsof Command"
+up: "[[LFCS]]"
+related: []
+note_type: cheatsheet
+desc: "lsof command"
+tags:
+  - Linux
+  - CLI
 ---
 
 # `lsof` Command (List Open Files)
