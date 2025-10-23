@@ -6,3 +6,7 @@
 *.rar
 *.tgz
 /external-resources/
+.trash/
+x/
+People
+people
