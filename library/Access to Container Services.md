@@ -4,9 +4,14 @@ related:
   - "[[Add Container Images]]"
   - "[[Access to Container Services]]"
 note_type: library/note
+library_type: container-platform
+desc: ""
 tags:
-  - LFCS
+  - Linux
+  - CLI
+  - linux-cli
   - container-platform
+  - LFCS
 ---
 
 
