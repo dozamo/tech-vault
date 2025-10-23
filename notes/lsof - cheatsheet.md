@@ -4,10 +4,7 @@ related: []
 note_type: cheatsheet
 library_type: linux-cli
 desc: "lsof command"
-tags:
-  - Linux
-  - CLI
-  - linux-cli
+tags: [Linux, CLI, linux-cli]
 ---
 
 # `lsof` Command (List Open Files)

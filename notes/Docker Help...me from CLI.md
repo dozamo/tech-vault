@@ -1,15 +1,10 @@
 ---
 up: "[[Container Platform]]"
 related: []
-note_type: library/note
+note_type: note
 library_type: container-platform
 desc: "docker cli help"
-tags:
-  - Linux
-  - CLI
-  - linux-cli
-  - container-platform
-  - LFCS
+tags: [CLI, linux-cli, container-platform, LFCS, Docker]
 ---
 
 ## 🔍 Recursos de Documentación Disponibles en el Sistema

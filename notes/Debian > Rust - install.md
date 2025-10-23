@@ -1,4 +1,14 @@
-# Rust
+---
+up: "[[Debian y derivados]]"
+related: []
+note_type: note
+library_type: linux-debian-based
+desc: ""
+parent: []
+tags: [Linux, CLI, Rust, Debian, Ubuntu]
+---
+
+# Rust en Debian (y derivados)
 
 ## Instalar dependencias Rust
 
