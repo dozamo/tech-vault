@@ -1,6 +1,22 @@
-# Instalación de virt-manager como Cliente de Administración Remota en Linux Mint 22.2
+---
+up: "[[Linux CLI]]"
+related: []
+note_type: note
+library_type: linux-cli
+desc: ""
+tags:
+  - Linux
+  - CLI
+  - linux-cli
+  - virtualization
+  - Ubuntu
+  - Debian
+---
 
-Este documento explica como instalar `virt-manager` para administrar **hosts KVM remotos** y no como un host de virtualización local.
+
+# Instalación de virt-manager como Cliente de Administración Remota en Linux Mint 22.2 (y/o derivados y/o compatibles)
+
+Este documento explica como instalar `virt-manager` para administrar **hosts KVM remotos** y no como un host de virtualización local, en un derivado de Debian.
 
 ## 1. Actualizar el sistema
 
