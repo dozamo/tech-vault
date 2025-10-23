@@ -248,8 +248,9 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "e0cd9660f83d3f41",
+  "active": "6668a06468464860",
   "lastOpenFiles": [
+    "library/docker/add-container-images.md",
     "library/lsof-cheatsheet.md~",
     "library/lsof-cheatsheet.md",
     "library/desktop-based-debian/notes/debian-rust-install.md",
@@ -268,7 +269,6 @@
     "library/virtualization-kvm/notes/kvm-cli-connect-to-domain.md",
     "library/virtualization-kvm/src/kvm-clone-script.sh",
     "library/virtualization-kvm/src/host-ubuntu_guest-ubuntu-001.sh",
-    "library/virtualization-kvm/src",
     "library/virtualization_kvm/notes/kvm-clone-vm.md",
     "library/virtualization_kvm/notes/kvm-clone-script.sh.md",
     "library/virtualization_kvm/notes/kvm-cli-connect-to-domain.md",
@@ -279,7 +279,6 @@
     "library/Container Platform/Add Container Images.md",
     "library/Container Platform/Access to Container Services.md",
     "README.md",
-    "library/docker/add-container-images.md",
     "library/docker/access-to-container-services.md",
     "Notes/000_Index.md",
     "Notes/Untitled.md",
